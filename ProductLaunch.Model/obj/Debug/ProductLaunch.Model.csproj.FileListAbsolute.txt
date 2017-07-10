@@ -18,3 +18,13 @@ C:\Workingdirectory\Devops\Practise\Code_StonemanDocker0417\msdn-magazine\CICD\V
 C:\Workingdirectory\Devops\Practise\Code_StonemanDocker0417\msdn-magazine\CICD\Version1\ProductLaunch\ProductLaunch.Model\obj\Debug\ProductLaunch.Model.csprojResolveAssemblyReference.cache
 C:\Workingdirectory\Devops\Practise\Code_StonemanDocker0417\msdn-magazine\CICD\Version1\ProductLaunch\ProductLaunch.Model\obj\Debug\ProductLaunch.Model.dll
 C:\Workingdirectory\Devops\Practise\Code_StonemanDocker0417\msdn-magazine\CICD\Version1\ProductLaunch\ProductLaunch.Model\obj\Debug\ProductLaunch.Model.pdb
+C:\Workingdirectory\Devops\Practise\Code_StonemanDocker0417\msdn-magazine\CICD\ProductLaunch\ProductLaunch.Model\bin\Debug\ProductLaunch.Model.dll.config
+C:\Workingdirectory\Devops\Practise\Code_StonemanDocker0417\msdn-magazine\CICD\ProductLaunch\ProductLaunch.Model\bin\Debug\ProductLaunch.Model.dll
+C:\Workingdirectory\Devops\Practise\Code_StonemanDocker0417\msdn-magazine\CICD\ProductLaunch\ProductLaunch.Model\bin\Debug\ProductLaunch.Model.pdb
+C:\Workingdirectory\Devops\Practise\Code_StonemanDocker0417\msdn-magazine\CICD\ProductLaunch\ProductLaunch.Model\bin\Debug\EntityFramework.dll
+C:\Workingdirectory\Devops\Practise\Code_StonemanDocker0417\msdn-magazine\CICD\ProductLaunch\ProductLaunch.Model\bin\Debug\ProductLaunch.Entities.dll
+C:\Workingdirectory\Devops\Practise\Code_StonemanDocker0417\msdn-magazine\CICD\ProductLaunch\ProductLaunch.Model\bin\Debug\ProductLaunch.Entities.pdb
+C:\Workingdirectory\Devops\Practise\Code_StonemanDocker0417\msdn-magazine\CICD\ProductLaunch\ProductLaunch.Model\bin\Debug\EntityFramework.xml
+C:\Workingdirectory\Devops\Practise\Code_StonemanDocker0417\msdn-magazine\CICD\ProductLaunch\ProductLaunch.Model\obj\Debug\ProductLaunch.Model.csprojResolveAssemblyReference.cache
+C:\Workingdirectory\Devops\Practise\Code_StonemanDocker0417\msdn-magazine\CICD\ProductLaunch\ProductLaunch.Model\obj\Debug\ProductLaunch.Model.dll
+C:\Workingdirectory\Devops\Practise\Code_StonemanDocker0417\msdn-magazine\CICD\ProductLaunch\ProductLaunch.Model\obj\Debug\ProductLaunch.Model.pdb

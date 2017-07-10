@@ -7,3 +7,7 @@ C:\Workingdirectory\Devops\Practise\Code_StonemanDocker0417\msdn-magazine\CICD\V
 C:\Workingdirectory\Devops\Practise\Code_StonemanDocker0417\msdn-magazine\CICD\Version1\ProductLaunch\ProductLaunch.Entities\bin\Debug\ProductLaunch.Entities.pdb
 C:\Workingdirectory\Devops\Practise\Code_StonemanDocker0417\msdn-magazine\CICD\Version1\ProductLaunch\ProductLaunch.Entities\obj\Debug\ProductLaunch.Entities.dll
 C:\Workingdirectory\Devops\Practise\Code_StonemanDocker0417\msdn-magazine\CICD\Version1\ProductLaunch\ProductLaunch.Entities\obj\Debug\ProductLaunch.Entities.pdb
+C:\Workingdirectory\Devops\Practise\Code_StonemanDocker0417\msdn-magazine\CICD\ProductLaunch\ProductLaunch.Entities\bin\Debug\ProductLaunch.Entities.dll
+C:\Workingdirectory\Devops\Practise\Code_StonemanDocker0417\msdn-magazine\CICD\ProductLaunch\ProductLaunch.Entities\bin\Debug\ProductLaunch.Entities.pdb
+C:\Workingdirectory\Devops\Practise\Code_StonemanDocker0417\msdn-magazine\CICD\ProductLaunch\ProductLaunch.Entities\obj\Debug\ProductLaunch.Entities.dll
+C:\Workingdirectory\Devops\Practise\Code_StonemanDocker0417\msdn-magazine\CICD\ProductLaunch\ProductLaunch.Entities\obj\Debug\ProductLaunch.Entities.pdb
